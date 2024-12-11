@@ -17,6 +17,7 @@ Key Features:
 7. Leave Management: PMRS simplifies leave management processes by providing employees with the ability to request and track their leaves directly through the system. This streamlines leave approval workflows and ensures transparency in the leave allocation process.
 
 Benefits:
+<br>
 Efficiency: PMRS streamlines various administrative tasks, saving time and resources for the organization.
 <br>
 Transparency: The system provides transparency in performance evaluation and reporting, fostering accountability and trust within the workforce.
