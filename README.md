@@ -25,8 +25,7 @@ Benefits:
 - Data Security: With role-based access control and secure locker features, PMRS ensures that sensitive information remains confidential.
 <br>
 - Insightful Reporting: PMRS generates comprehensive reports on employee performance, project status, and other key metrics, empowering decision-makers with actionable insights.
-<br>
-In summary, PMRS is a versatile and powerful tool for organizations seeking to optimize their performance measurement and reporting processes, ultimately driving productivity and success.
+
 
 <br>
 Roles and Responsibilities:
