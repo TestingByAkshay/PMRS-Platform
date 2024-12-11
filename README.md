@@ -26,7 +26,7 @@ Benefits:
 <br>
 - Insightful Reporting: PMRS generates comprehensive reports on employee performance, project status, and other key metrics, empowering decision-makers with actionable insights.
 
-
+<br>
 Roles and Responsibilities:
 <br>
 - Conducted smoke testing for 10 builds, achieving a 95% success rate in validating basic functionalities.
