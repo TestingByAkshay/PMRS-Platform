@@ -27,3 +27,14 @@ Data Security: With role-based access control and secure locker features, PMRS e
 Insightful Reporting: PMRS generates comprehensive reports on employee performance, project status, and other key metrics, empowering decision-makers with actionable insights.
 <br>
 In summary, PMRS is a versatile and powerful tool for organizations seeking to optimize their performance measurement and reporting processes, ultimately driving productivity and success.
+
+<br>
+Roles and Responsibilities:
+<br>
+Conducted smoke testing for 10 builds, achieving a 95% success rate in validating basic functionalities.
+<br>
+Designed and executed 50 detailed test cases for employee and project management modules, increasing test coverage by 30%.
+<br>
+Performed unit integration testing across 8 modules, reducing module-related issues by 20%.
+<br>
+Collaborated with the development team to resolve 40 issues, leading to a 15% improvement in application reliability.
