@@ -30,7 +30,7 @@ decision-makers with actionable insights.
 <br>
 
 
-
+<br>
 Roles and Responsibilities:
 <br>
 - Conducted smoke testing for 10 builds, achieving a 95% success rate in validating basic functionalities.
